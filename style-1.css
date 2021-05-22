@@ -95,9 +95,15 @@ header{
 
    .left{
        text-align: center;
+       min-width: 100%;
    }
    .left h2{
        font-size: 1rem;
+       
+   }
+
+   .right{
+       margin-top: 50px;
    }
 }
 
